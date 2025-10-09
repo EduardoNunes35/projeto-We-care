@@ -10,4 +10,4 @@
 <p><img src="https://cdn.iconscout.com/icon/free/png-256/free-css-icon-svg-download-png-226088.png" alt="CSS-logo" width="45px"> </p>
 
 <h3>Contexto:</h3>
-<h4>Esse foi o meu primeiro projeto utilizando HTML e CSS. Ele foi um desafio proposto nas aulas do DevClub, feito para colocarmos em pratica tudo que aprendemos.</h4>
+<h4>Esse foi o meu primeiro projeto utilizando HTML e CSS. Ele foi um desafio proposto nas aulas do DevClub, feito para colocarmos em pratica tudo que tinhamos aprendido.</h4>
