@@ -1,8 +1,9 @@
 <h1>We Care</h1>
-<h2>Esse foi um projeto que aprendi a fazer no <a href="http://devclub.com.br/sobre/">DevClub</a>:</h2>
+
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/EduardoNunes35/We-care/2934676f27542651f18ce7760cfd8e35bedb7fec/we-care-desktop.png">
+<h2>Esse foi um dos projetos que aprendi a fazer no <a href="http://devclub.com.br/sobre/">DevClub</a></h2>
 <br>
 <h3>Tecnologias utilizadas:</h3>
 
